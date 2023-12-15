@@ -1,6 +1,7 @@
 ## how to run
 
 use virtualenv to create python virtuaenv and install dependency for `soal2.py`
+replace `api_key = 'your api key'` on `soal2.py` `line 9` with your api key from openweathermap.org
 
 
 ## result
